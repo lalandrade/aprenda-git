@@ -11,7 +11,7 @@ Téc. informática para Web (Senai)
 
 ## Projetos
 
-- [Meu Projeto](Link do GitHub) https://github.com/charlesedutec/aprenda-git
+- [Meu Projeto](Link do GitHub) https://github.com/lalandrade/aprenda-git
 
 
 ## Link do Perfil
