@@ -1,0 +1,6 @@
+# Ignore todos os arquivos de texto
+*.lala.txt
+# Ignore arquivos relacionados às chaves de API
+*.lala.env
+# Ignore pasta de rar
+*.lala.rar
