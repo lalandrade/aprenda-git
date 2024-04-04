@@ -1,13 +1,13 @@
 # Ignore todos os arquivos de texto
-*.lala.txt
+*.txt
 # Ignore arquivos relacionados às chaves de API
-*.lala.env
+*.env
 # Ignore pasta de rar 
-*.lala.rar
+*.rar
 # Ignore arquivo de banco dos dados
-*.lala.bd
+*.bd
 # Ignore ZIP
-*.lala.zip
+*.zip
 # Ignore bkp
-*.lala.bkp
+*.bkp
 
